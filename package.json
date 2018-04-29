@@ -1,5 +1,5 @@
 {
-  "name": "titanbot",
+  "name": "NameChanger",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,6 @@
   "author": "mouatz2003",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.3.2"
+    "eris": "^0.8.5"
   }
 }
